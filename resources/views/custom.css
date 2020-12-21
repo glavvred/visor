@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+    .container {
+        width: auto!important;
+    }    
+}
+
+.filter-panel__inner {
+    display: flex;
+}
